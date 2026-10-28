@@ -60,13 +60,13 @@ const CONFIG = {
 
   contact: { // "" hides that card
     email: "hello@example.com",
-    phone: "",                    // e.g. "+91 98765 43210"
+    phone: "+91 98765 43210",                    // e.g. "+91 98765 43210"
     whatsapp: "",                 // country code + number, e.g. "919876543210"
     whatsappMessage: "Hi! I found your portfolio and would like to connect.",
     linkedin: "https://www.linkedin.com/in/your-username",
     github: "https://github.com/your-username",
     instagram: "",                // e.g. "https://www.instagram.com/your-username"
-    location: ""                  // e.g. "Kozhikode, Kerala"
+    location: "Calicut, Kerala"                  // e.g. "Kozhikode, Kerala"
   }
 };
 
