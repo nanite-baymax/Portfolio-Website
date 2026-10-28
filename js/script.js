@@ -17,8 +17,8 @@ const CONFIG = {
 
   about: {
     paragraphs: [
-      "Hi, I'm [Name], a Data Scientist specializing in [mention specialty, e.g., machine learning / predictive modeling / natural language processing]. I bridge the gap between complex datasets and actionable business strategies, helping organizations transform raw numbers into high-impact products and decisions.",
-      "Describe your background, how you got into this field, and the goals you are working toward."
+      "Hi, I'm Abhinav, a Data Scientist specializing in Machine Learning. I bridge the gap between complex datasets & actionable business strategies, helping organizations transform raw numbers into high-impact products & decisions.",
+      "My journey into data science began with a background in Computer Science, where I developed a deep curiosity for pattern recognition & quantitative problem-solving. Over the past 3 years, I’ve honed my expertise in building robust machine learning pipelines, leveraging Python & SQL, and collaborating with cross-functional teams to solve real-world challenges in healthcare, e-commerce. Moving forward, my goal is to drive innovation in ethical AI while continuing to build data-driven solutions that create measurable, long-term value."
     ],
     focus: ["Web applications", "APIs", "Performance", "Accessibility"],
     stats: [] // only add figures you can verify, e.g. { value: "3+", label: "Years of experience" }
